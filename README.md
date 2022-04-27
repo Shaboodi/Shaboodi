@@ -22,7 +22,6 @@ My name is Gal Shaboodi.
 
 - :computer: Software Engineer who's passionate about cutting-edge technologies mainly in fields of Big-Data, Web and ML.
 - :gift: Open source enthusiast. Thanks for the all open source contributors.
-- :art: Creator of [Diagrams](https://github.com/mingrammer/diagrams), the Diagram as Code language. (Try it!)
 - :snowman: Do you wanna build a highly scalable distributed system? Yes I do! :blush:
 - :factory: Automate the boring tasks and make something for developers.
 
