@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi There 👋
+
+My name is Gal Shaboodi.
+
+- :computer: Software Engineer who's passionate about cutting-edge technologies mainly in fields of Big-Data, Web and ML.
+- :gift: Open source enthusiast. Thanks for the all open source contributors.
+- :art: Creator of [Diagrams](https://github.com/mingrammer/diagrams), the Diagram as Code language. (Try it!)
+- :snowman: Do you wanna build a highly scalable distributed system? Yes I do! :blush:
+- :factory: Automate the boring tasks and make something for developers.
+
+[![Shaboodi's github stats](https://github-readme-stats.vercel.app/api?username=shaboodi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
