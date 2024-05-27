@@ -7,5 +7,3 @@ My name is Gal Shaboodi.
 - :gift: Open source enthusiast. Thanks for the all open source contributors.
 - :rocket: http://www.shaboodi.com
 
-[![Shaboodi's github stats](https://github-readme-stats.vercel.app/api?username=shaboodi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
